@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D7724-2B07-457E-A6B7-AB075D5BB0CB}|Conexiones\\Conexiones.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\conexiones\\dbsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D7724-2B07-457E-A6B7-AB075D5BB0CB}|Conexiones\\Conexiones.csproj|solutionrelative:conexiones\\dbsqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|c:\\users\\alber\\onedrive\\escritorio\\tbdd\\tbdd\\interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|solutionrelative:tbdd\\interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\tbdd\\interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|solutionrelative:tbdd\\interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\tbdd\\iniciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|solutionrelative:tbdd\\iniciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\tbdd\\iniciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|solutionrelative:tbdd\\iniciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\tbdd\\fmasistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|solutionrelative:tbdd\\fmasistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\tbdd\\asistentecrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|solutionrelative:tbdd\\asistentecrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\tbdd\\asistentecrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD81AE1-3776-4AB8-A20E-248B57D7069A}|TBDD\\TBDD_AVR_501_ISC.csproj|solutionrelative:tbdd\\asistentecrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InicioDeSesion.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\InicioDeSesion.cs",
+              "RelativeDocumentMoniker": "TBDD\\InicioDeSesion.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\InicioDeSesion.cs",
+              "RelativeToolTip": "TBDD\\InicioDeSesion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:54:53.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FmAsistente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\FmAsistente.cs",
+              "RelativeDocumentMoniker": "TBDD\\FmAsistente.cs",
+              "ToolTip": "C:\\Projects\\TBDD\\TBDD\\FmAsistente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Projects\\TBDD\\TBDD\\FmAsistente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:47:00.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsistenteCrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\AsistenteCrearUsuario.cs",
+              "RelativeDocumentMoniker": "TBDD\\AsistenteCrearUsuario.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\AsistenteCrearUsuario.cs",
+              "RelativeToolTip": "TBDD\\AsistenteCrearUsuario.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAD4v34AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:47:00.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsistenteCrearUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\AsistenteCrearUsuario.cs",
+              "RelativeDocumentMoniker": "TBDD\\AsistenteCrearUsuario.cs",
+              "ToolTip": "C:\\Projects\\TBDD\\TBDD\\AsistenteCrearUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Projects\\TBDD\\TBDD\\AsistenteCrearUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:47:00.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interfaz.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\Interfaz.cs",
+              "RelativeDocumentMoniker": "TBDD\\Interfaz.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\Interfaz.cs",
+              "RelativeToolTip": "TBDD\\Interfaz.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAK0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:47:00.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interfaz.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\Interfaz.cs",
+              "RelativeDocumentMoniker": "TBDD\\Interfaz.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\Interfaz.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TBDD\\Interfaz.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:47:00.398Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbSqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\Conexiones\\dbSqlServer.cs",
+              "RelativeDocumentMoniker": "Conexiones\\dbSqlServer.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\Conexiones\\dbSqlServer.cs",
+              "RelativeToolTip": "Conexiones\\dbSqlServer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:47:00.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InicioDeSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\TBDD\\TBDD\\InicioDeSesion.cs",
+              "RelativeDocumentMoniker": "TBDD\\InicioDeSesion.cs",
+              "ToolTip": "C:\\Projects\\TBDD\\TBDD\\InicioDeSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Projects\\TBDD\\TBDD\\InicioDeSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:47:00.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

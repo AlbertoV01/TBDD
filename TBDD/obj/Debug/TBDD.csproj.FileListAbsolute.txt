@@ -1,0 +1,14 @@
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.csproj.AssemblyReference.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.Interfaz.resources
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.Properties.Resources.resources
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.csproj.GenerateResource.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\TBDD.exe.config
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\TBDD.exe
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\TBDD.pdb
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.csproj.CopyComplete
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.exe
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.pdb
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\Conexiones.dll
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\Conexiones.pdb

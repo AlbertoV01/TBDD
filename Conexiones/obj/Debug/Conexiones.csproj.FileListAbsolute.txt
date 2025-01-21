@@ -1,0 +1,12 @@
+C:\Users\Alber\source\repos\TBDD\Conexiones\bin\Debug\Conexiones.dll
+C:\Users\Alber\source\repos\TBDD\Conexiones\bin\Debug\Conexiones.pdb
+C:\Users\Alber\source\repos\TBDD\Conexiones\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+C:\Users\Alber\source\repos\TBDD\Conexiones\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\repos\TBDD\Conexiones\obj\Debug\Conexiones.dll
+C:\Users\Alber\source\repos\TBDD\Conexiones\obj\Debug\Conexiones.pdb
+C:\Users\Alber\source\TBDD\Conexiones\bin\Debug\Conexiones.dll
+C:\Users\Alber\source\TBDD\Conexiones\bin\Debug\Conexiones.pdb
+C:\Users\Alber\source\TBDD\Conexiones\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+C:\Users\Alber\source\TBDD\Conexiones\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\TBDD\Conexiones\obj\Debug\Conexiones.dll
+C:\Users\Alber\source\TBDD\Conexiones\obj\Debug\Conexiones.pdb

@@ -1,0 +1,65 @@
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.AssemblyReference.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.Interfaz.resources
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.Properties.Resources.resources
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.GenerateResource.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.exe
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.pdb
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\TBDD.exe.config
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\TBDD.exe
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\TBDD.pdb
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\Conexiones.dll
+C:\Users\Alber\source\repos\TBDD\TBDD\bin\Debug\Conexiones.pdb
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.CopyComplete
+C:\Users\Alber\source\repos\TBDD\TBDD\obj\Debug\TBDD.FmAsistente.resources
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.AssemblyReference.cache
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD.FmAsistente.resources
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD.Interfaz.resources
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD.Properties.Resources.resources
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.GenerateResource.cache
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\TBDD\TBDD\bin\Debug\TBDD.exe.config
+C:\Users\Alber\source\TBDD\TBDD\bin\Debug\TBDD.exe
+C:\Users\Alber\source\TBDD\TBDD\bin\Debug\TBDD.pdb
+C:\Users\Alber\source\TBDD\TBDD\bin\Debug\Conexiones.dll
+C:\Users\Alber\source\TBDD\TBDD\bin\Debug\Conexiones.pdb
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.CopyComplete
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD.exe
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD.pdb
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD.fmInicioDeSesion.resources
+C:\Users\Alber\source\TBDD\TBDD\obj\Debug\TBDD.AsistenteCrearUsuario.resources
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\bin\Debug\TBDD.exe.config
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\bin\Debug\TBDD.exe
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\bin\Debug\TBDD.pdb
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\bin\Debug\Conexiones.dll
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\bin\Debug\Conexiones.pdb
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.AssemblyReference.cache
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.SuggestedBindingRedirects.cache
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD.AsistenteCrearUsuario.resources
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD.FmAsistente.resources
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD.fmInicioDeSesion.resources
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD.Interfaz.resources
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD.Properties.Resources.resources
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.GenerateResource.cache
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.CoreCompileInputs.cache
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.CopyComplete
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD.exe
+D:\ITSG\Proyectos VS C#\TBDD\TBDD\obj\Debug\TBDD.pdb
+C:\Projects\TBDD\TBDD\bin\Debug\TBDD.exe.config
+C:\Projects\TBDD\TBDD\bin\Debug\TBDD.exe
+C:\Projects\TBDD\TBDD\bin\Debug\TBDD.pdb
+C:\Projects\TBDD\TBDD\bin\Debug\Conexiones.dll
+C:\Projects\TBDD\TBDD\bin\Debug\Conexiones.pdb
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.AssemblyReference.cache
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD.AsistenteCrearUsuario.resources
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD.FmAsistente.resources
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD.fmInicioDeSesion.resources
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD.Interfaz.resources
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD.Properties.Resources.resources
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.GenerateResource.cache
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD_AVR_501_ISC.csproj.CoreCompileInputs.cache
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD_AVR.E2B89279.Up2Date
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD.exe
+C:\Projects\TBDD\TBDD\obj\Debug\TBDD.pdb
