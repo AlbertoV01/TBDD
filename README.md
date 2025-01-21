@@ -1,0 +1,6 @@
+![imagenes](images/captura1.png)
+![imagenes](images/captura2.png)
+![imagenes](images/captura3.png)
+![imagenes](images/captura4.png)
+![imagenes](images/captura5.png)
+![imagenes](images/captura6.png)
